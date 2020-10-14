@@ -1,0 +1,30 @@
+{
+  "name": "promise-lab",
+  "version": "1.0.0",
+  "description": "A Lab to discover Promises in Javascript and Typescript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasF34/promise-lab.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "Javascript",
+    "TS",
+    "JS",
+    "Promise",
+    "Lab"
+  ],
+  "author": "Thomas Falcone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasF34/promise-lab/issues"
+  },
+  "homepage": "https://github.com/ThomasF34/promise-lab#readme",
+  "dependencies": {
+    "jest": "^26.5.3"
+  }
+}
